@@ -1,0 +1,4 @@
+recordcount=1000000
+fieldcount=10
+threads=100
+target=100
